@@ -8,13 +8,12 @@ Welcome to my GitHub profile! I'm a passionate data scientist with also having k
 - 🌱 I’m constantly learning and exploring new technologies in data science and AI.
 - 👯 I’m looking to collaborate on open source projects and interesting data science challenges.
 - 💬 Ask me about data science, machine learning, deep learning, or anything tech-related!
-- 📫 How to reach me: [sameersarkate11@gmail.com](mailto:sameersarkate11@gmail.com)
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sameer-sarkate-7b944a22a)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)]([https://github.com/your-github-username](https://github.com/sameer-sarkate-11
-))
-
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/sameer-sarkate-11)
+- 📫 How to reach me: [sameersarkate11@gmail.com](mailto:sameersarkate11@gmail.com)
+- 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
