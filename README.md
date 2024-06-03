@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist with also having k
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/sameer-sarkate-7b944a22a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sameer-sarkate-7b944a22a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/your-github-username)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
